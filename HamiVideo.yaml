@@ -5,4 +5,4 @@
 # TOTAL: 4
 payload:
     - DOMAIN-KEYWORD,hamivideo
-    - DOMAIN-SUFFIX,*.cdn.hinet.net
+    - DOMAIN-SUFFIX,cdn.hinet.net
