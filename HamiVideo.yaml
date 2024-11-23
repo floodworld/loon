@@ -1,0 +1,10 @@
+# NAME: HamiVideo
+# DOMAIN: 1
+# DOMAIN-KEYWORD: 1
+# DOMAIN-SUFFIX: 2
+# TOTAL: 4
+payload:
+    - DOMAIN-KEYWORD,hamivideo
+    - DOMAIN-SUFFIX,*.cdn.hinet.net
+    - DOMAIN,hls-hichannel.cdn.hinet.net
+    - DOMAIN-SUFFIX,ott.hinet.net
