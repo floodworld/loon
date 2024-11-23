@@ -6,5 +6,3 @@
 payload:
     - DOMAIN-KEYWORD,hamivideo
     - DOMAIN-SUFFIX,*.cdn.hinet.net
-    - DOMAIN,hls-hichannel.cdn.hinet.net
-    - DOMAIN-SUFFIX,ott.hinet.net
