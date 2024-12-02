@@ -425,7 +425,7 @@ case $main_choice in
     ;;
   3)
     # 更新为全量配置
-    CONFIG_URL="https://raw.githubusercontent.com/Jimmyzxk/DNS-Alice-Unlock/refs/heads/main/dnsmasq.conf.allsg"
+    CONFIG_URL="https://raw.githubusercontent.com/btjson/loon/refs/heads/main/dnsmasq/dnsmasq.conf.allsg"
     TARGET_FILE="dnsmasq.conf.allsg"
     REGION="AllSG"
     ;;
