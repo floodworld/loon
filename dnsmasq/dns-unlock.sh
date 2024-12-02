@@ -4,7 +4,7 @@
 # 请确保使用 sudo 或 root 权限运行此脚本
 
 # 脚本版本和更新时间
-VERSION="V_1.3.4"
+VERSION="V_1.3.5"
 LAST_UPDATED=$(date +"%Y-%m-%d")
 
 # 检查是否以 root 身份运行6
