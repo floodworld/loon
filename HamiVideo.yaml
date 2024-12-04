@@ -5,4 +5,5 @@
 # TOTAL: 4
 payload:
     - DOMAIN-KEYWORD,hamivideo
+    - DOMAIN-SUFFIX,4gtv.tv
     - DOMAIN-SUFFIX,cdn.hinet.net
