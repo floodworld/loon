@@ -15,3 +15,4 @@ payload:
     - DOMAIN-SUFFIX,cloudflareclient.com
     - DOMAIN-SUFFIX,vip-tptv.xyz
     - DOMAIN-SUFFIX,cloudflare.com
+    - DOMAIN-SUFFIX,plusai.me
